@@ -1,12 +1,54 @@
-# 💫 About Me:
-🚀 About Me<br>I am a B.S. candidate in Applied AI and Data Science at IIT Jodhpur (2024–Present). I focus on building intelligent systems and extracting actionable insights from complex datasets. My work bridges the gap between mathematical theory—like linear algebra and statistical analysis—and practical AI applications.<br><br>🛠 Technical Toolbox<br>Languages: Python, C++, SQL (MySQL), HTML <br>AI & ML: Google Gemini API, LLMs, Agentic Workflows (ReAct), Scikit-learn, Logistic Regression <br>Data Science: Pandas, NumPy, Matplotlib, Seaborn, SciPy <br>Tools: Git, Google Sheets, Gradio <br><br>🧪 Featured Projects<br>AI Agents: Developed autonomous agents using the Google Gemini API, implementing Function Calling and ReAct workflows for multi-step reasoning.<br>Project LANA: Modeled financial market shocks using a tridiagonal matrix framework to quantify how systemic stress redistributes through banking networks.<br>Strategic Growth Analysis: Executed EDA on stagnant growth datasets, using Pearson Correlation to debunk discount-driven spending myths and optimize profit margins.<br>Predictive Modeling: Built a diabetes prediction model (74% accuracy) and analyzed health risk factors like "hypertension volatility" using point-biserial correlation.<br>Database Engineering: Designed relational schemas for food delivery management and developed SQL sanitation scripts to improve data integrity.<br><br>📈 What I'm Up To<br>Currently mastering foundational courses in AI and Mathematics while exploring the intersection of Agentic Workflows and Financial Risk Modeling.
+# 💫 About Me
+🚀 **AI & Data Science undergraduate at IIT Jodhpur** focused on production LLM systems, RAG pipelines, computer vision, and backend AI engineering. Experienced in building scalable applications using **FastAPI**, **LangGraph**, and vector databases with verified deployments and quantifiable performance gains.
 
+---
+
+### 🛠 Technical Toolbox
+* **AI, LLMs & Agents:** LangGraph, LlamaIndex, Qdrant, Gemini API, Tavily, Vector Search, PyTorch, ReAct, Function Calling
+* **Backend Systems:** Python, FastAPI, Asynchronous Workflows, Pydantic, REST APIs, SQLite, SQL (MySQL), C++, Git
+* **Tools & GIS:** Streamlit, Tableau, Maven, Sentinelhub-py, CQL2, OGC WMS API, Gradio
+
+---
+
+### 🧪 Featured Projects
+
+#### 🤖 AgentOS (Autonomous Multi-Agent Research Engine)
+* **Stack:** Python, LangGraph, Gemini API, Tavily, Streamlit
+* Built a stateful multi-agent orchestrator executing asynchronous web scraping and report generation, **reducing manual research time by over 70%**.
+* Developed an automated **Judge LLM evaluation node** using Pydantic schemas to audit report groundedness, triggering self-correction routing loops upon quality failures.
+* Integrated live web search via Tavily API and **Human-in-the-Loop (HITL)** state interrupts.
+
+#### 📚 Knowledge Engine (Enterprise RAG Pipeline)
+* **Stack:** Python, FastAPI, LlamaIndex, Qdrant, Streamlit
+* Built a decoupled Retrieval-Augmented Generation system to process and vector-index 250+ page enterprise PDFs with page-level citations.
+* Optimized vector retrieval using LlamaIndex and Qdrant, **reducing query context retrieval latency from 4.2s to under 1.2s**.
+
+#### 👁️ Enterprise Prepress & Visual Analytics Engine
+* **Stack:** Python, FastAPI, OpenCV, Gemini Vision, SQLite
+* Engineered an asynchronous vision pipeline processing high-resolution industrial layouts in 2.3s using **ORB alignment, RANSAC warping, and Gemini Vision API**.
+* Designed an adaptive alpha gradient feathering engine with PIL, boosting clean transparent asset export accuracy by 18%.
+
+#### 🌐 Strategic GEOINT Border Surveillance Dashboard
+* **Stack:** Python, Streamlit, Sentinelhub, CQL2
+* Developed a Geospatial Intelligence tool using Streamlit to monitor strategic border sectors via live ESA Sentinel-2 satellite imagery streams with sub-second catalog queries.
+
+#### ⚙️ AI Agents Development Pipeline
+* **Stack:** Python, Gemini API, ReAct
+* Engineered autonomous AI Agents utilizing custom Function Calling and ReAct reasoning frameworks to orchestrate multi-step data processing workflows.
+
+---
+
+### 📈 What I'm Up To
+Currently completing my B.S. in Applied AI and Data Science at IIT Jodhpur while exploring advanced Agentic Workflows, Computer Vision, and high-performance RAG pipelines.
+
+---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/prashanth-suthar-432965370) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prashantcsuthar@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashanth-suthar-432965370) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prashantcsuthar@gmail.com) 
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prashantcsuthar-cmd&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=prashantcsuthar-cmd&theme=dark&hide_border=true)<br/>
@@ -20,5 +62,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=prashantcsuthar-cmd&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
