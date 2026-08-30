@@ -1,38 +1,38 @@
-# 💫 About Me
-🚀 **AI & Data Science undergraduate at IIT Jodhpur** focused on production LLM systems, RAG pipelines, computer vision, and backend AI engineering. Experienced in building scalable applications using **FastAPI**, **LangGraph**, and vector databases with verified deployments and quantifiable performance gains.
+# About Me
+ **AI & Data Science undergraduate at IIT Jodhpur** focused on production LLM systems, RAG pipelines, computer vision, and backend AI engineering. Experienced in building scalable applications using **FastAPI**, **LangGraph**, and vector databases with verified deployments and quantifiable performance gains.
 
 ---
 
-### 🛠 Technical Toolbox
+### Technical Toolbox
 * **AI, LLMs & Agents:** LangGraph, LlamaIndex, Qdrant, Gemini API, Tavily, Vector Search, PyTorch, ReAct, Function Calling
 * **Backend Systems:** Python, FastAPI, Asynchronous Workflows, Pydantic, REST APIs, SQLite, SQL (MySQL), C++, Git
 * **Tools & GIS:** Streamlit, Tableau, Maven, Sentinelhub-py, CQL2, OGC WMS API, Gradio
 
 ---
 
-### 🧪 Featured Projects
+### Featured Projects
 
-#### 🤖 AgentOS (Autonomous Multi-Agent Research Engine)
+#### AgentOS (Autonomous Multi-Agent Research Engine)
 * **Stack:** Python, LangGraph, Gemini API, Tavily, Streamlit
 * Built a stateful multi-agent orchestrator executing asynchronous web scraping and report generation, **reducing manual research time by over 70%**.
 * Developed an automated **Judge LLM evaluation node** using Pydantic schemas to audit report groundedness, triggering self-correction routing loops upon quality failures.
 * Integrated live web search via Tavily API and **Human-in-the-Loop (HITL)** state interrupts.
 
-#### 📚 Knowledge Engine (Enterprise RAG Pipeline)
+#### Knowledge Engine (Enterprise RAG Pipeline)
 * **Stack:** Python, FastAPI, LlamaIndex, Qdrant, Streamlit
 * Built a decoupled Retrieval-Augmented Generation system to process and vector-index 250+ page enterprise PDFs with page-level citations.
 * Optimized vector retrieval using LlamaIndex and Qdrant, **reducing query context retrieval latency from 4.2s to under 1.2s**.
 
-#### 👁️ Enterprise Prepress & Visual Analytics Engine
+#### Enterprise Prepress & Visual Analytics Engine
 * **Stack:** Python, FastAPI, OpenCV, Gemini Vision, SQLite
 * Engineered an asynchronous vision pipeline processing high-resolution industrial layouts in 2.3s using **ORB alignment, RANSAC warping, and Gemini Vision API**.
 * Designed an adaptive alpha gradient feathering engine with PIL, boosting clean transparent asset export accuracy by 18%.
 
-#### 🌐 Strategic GEOINT Border Surveillance Dashboard
+####  Strategic GEOINT Border Surveillance Dashboard
 * **Stack:** Python, Streamlit, Sentinelhub, CQL2
 * Developed a Geospatial Intelligence tool using Streamlit to monitor strategic border sectors via live ESA Sentinel-2 satellite imagery streams with sub-second catalog queries.
 
-#### ⚙️ AI Agents Development Pipeline
+#### AI Agents Development Pipeline
 * **Stack:** Python, Gemini API, ReAct
 * Engineered autonomous AI Agents utilizing custom Function Calling and ReAct reasoning frameworks to orchestrate multi-step data processing workflows.
 
